@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sahil2/static/css/main.073c9b0a.css",
+    "main.js": "/sahil2/static/js/main.0bd9b950.js",
+    "static/js/787.d3e2a102.chunk.js": "/sahil2/static/js/787.d3e2a102.chunk.js",
+    "index.html": "/sahil2/index.html",
+    "main.073c9b0a.css.map": "/sahil2/static/css/main.073c9b0a.css.map",
+    "main.0bd9b950.js.map": "/sahil2/static/js/main.0bd9b950.js.map",
+    "787.d3e2a102.chunk.js.map": "/sahil2/static/js/787.d3e2a102.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.0bd9b950.js"
+  ]
+}
